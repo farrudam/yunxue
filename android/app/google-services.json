@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112314784634",
+    "firebase_url": "https://yunxue-bb186.firebaseio.com",
+    "project_id": "yunxue-bb186",
+    "storage_bucket": "yunxue-bb186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112314784634:android:823e393d3a13522cf154c3",
+        "android_client_info": {
+          "package_name": "br.com.wigfa7.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112314784634-cbvkki5mqv5h4e5c7oq0eu5qgop6lvfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.wigfa7.chat",
+            "certificate_hash": "29f312ea2a835a3826e69d4487508b068e729e4f"
+          }
+        },
+        {
+          "client_id": "112314784634-uj28ugsh7gi4khq4nrmrgnlkm4n02qo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAByNqAl1MmuEjaA0JXun2Q0-KnyK47cI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112314784634-uj28ugsh7gi4khq4nrmrgnlkm4n02qo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
